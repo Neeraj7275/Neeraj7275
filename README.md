@@ -1,16 +1,27 @@
-## Hi there 👋
+ <h1 align="center">Hi 👋, I'm Neeraj Patel</h1>
 
-<!--
-**Neeraj7275/Neeraj7275** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working on ReactJs
+- 🌱 I’m currently learning Backend
+- 💬 Ask me anything about HTML CSS and javascript 
+- 📫 How to reach me: neeraj17022004@gmail.com
+  
+### Connect with me:
+<div id="badges">
+  <a href="https://github.com/Neeraj7275">
+    <img src="https://img.shields.io/badge/Github-white?style=for-the-badge&logo=Github&logoColor=black" alt="Github Badge"/>
+  </a>
+   <a href="https://www.linkedin.com/in/neeraj-patel-763b3229a/">
+    <img src="https://play-lh.googleusercontent.com/kMofEFLjobZy_bCuaiDogzBcUT-dz3BBbOrIEjJ-hqOabjK8ieuevGe6wlTD15QzOqw" alt="LinkedIn"/>
+  </a>
+</div>
 
-Here are some ideas to get you started:
+### Languages and Tools:
+[![My Skills](https://skillicons.dev/icons?i=flutter,github,git,figma)](https://skillicons.dev)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Asif Taj's GitHub stats](https://github-readme-stats.vercel.app/api?username=axiftaj&show_icons=true&theme=dark)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=axiftaj&theme=dark)
+
+
+<br>
+⭐️ From [Neeraj patel](https://github.com/Neeraj7275)
