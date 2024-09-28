@@ -1,6 +1,6 @@
  <h1 align="center">Hi 👋, I'm Neeraj Patel</h1>
 
-- 🔭 I’m currently working on ReactJs
+- 🔭 I’m currently working on React.js
 - 🌱 I’m currently learning Backend
 - 💬 Ask me anything about HTML CSS and javascript 
 - 📫 How to reach me: neeraj17022004@gmail.com
