@@ -1,18 +1,26 @@
- <h1 align="center">Hi 👋, I'm Neeraj Patel</h1>
-
-- 🔭 I’m currently working on React.js
-- 🌱 I’m currently learning Backend
-- 💬 Ask me anything about HTML CSS and javascript 
+ <h1 align="center">👋 Hi, I'm Neeraj Patel — a final-year B.Tech CSE student at JSS Academy of Technical Education.</h1>
+-📚 Currently exploring system design and 🔧 backend scalability.
+- 💻 I work with the MERN stack to build responsive full-stack web apps.
+- 🧠 Strong in C++ and DSA problem solving, with a deep interest in algorithms and code efficiency
+-🧹 I'm passionate about clean code, ⚡️ performance, and 🏗️ building real-world solutions.
+- 💬 Ask me anything about HTML, CSS, and JavaScript 
 - 📫 How to reach me: neeraj17022004@gmail.com
   
-### Connect with me:
+### 📬 Connect with me
+
 <div id="badges">
-  <a href="https://github.com/Neeraj7275">
-    <img src="https://img.shields.io/badge/Github-white?style=for-the-badge&logo=Github&logoColor=black" alt="Github Badge"/>
+  <a href="https://github.com/Neeraj7275" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge"/>
   </a>
-   <a href="https://www.linkedin.com/in/neeraj-patel-763b3229a/">
-    <img src="https://play-lh.googleusercontent.com/kMofEFLjobZy_bCuaiDogzBcUT-dz3BBbOrIEjJ-hqOabjK8ieuevGe6wlTD15QzOqw" alt="LinkedIn" width="50px" height="32px"/>
+  <a href="https://www.linkedin.com/in/neeraj-patel-763b3229a/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="https://portfolio-iota-mauve-5awrq5akz0.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio Badge"/>
   </a>
 </div>
-<br>
-⭐️ From [Neeraj patel](https://github.com/Neeraj7275)
+
+<br/>
+
+⭐️ From [Neeraj Patel](https://github.com/Neeraj7275)
+
