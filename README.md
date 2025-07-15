@@ -1,10 +1,12 @@
  <h1 align="center">👋 Hi, I'm Neeraj Patel — a final-year B.Tech CSE student at JSS Academy of Technical Education.</h1>
--📚 Currently exploring system design and 🔧 backend scalability.
-- 💻 I work with the MERN stack to build responsive full-stack web apps.
-- 🧠 Strong in C++ and DSA problem solving, with a deep interest in algorithms and code efficiency
--🧹 I'm passionate about clean code, ⚡️ performance, and 🏗️ building real-world solutions.
-- 💬 Ask me anything about HTML, CSS, and JavaScript 
-- 📫 How to reach me: neeraj17022004@gmail.com
+ ### 🧑‍💻 About Me
+
+- 📚 Currently exploring **system design** and 🔧 **backend scalability**  
+- 💻 I work with the **MERN stack** to build responsive full-stack web apps  
+- 🧠 Strong in **C++** and **DSA problem solving**, with a deep interest in algorithms and code efficiency  
+- 🧹 Passionate about **clean code**, ⚡️ **performance**, and 🏗️ building real-world solutions  
+- 💬 Ask me anything about **HTML**, **CSS**, and **JavaScript**  
+- 📫 Reach me at: [neeraj17022004@gmail.com](mailto:neeraj17022004@gmail.com)
   
 ### 📬 Connect with me
 
